@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**aneeshakareem/aneeshakareem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aneesh Abdul Kareem, a Frond end developer who loves to build beautiful, responsive, and user-friendly websites. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML/CSS
+- JavaScript
+- Python
+- MongoDB
+- Git
+
+## Projects
+
+Here are some of the projects that I've worked on:
+
+- [Billion Dreams](https://aneeshakareem.github.io/Billion-Dreams/): 'Billion Dreams' Company website.
+
+## Experience
+
+- [Billion Dreams](https://aneeshakareem.github.io/Billion-Dreams/) - Marketing Head in Social Meadi
+
+## Education
+
+- [University](link) - Degree, Field of study, Graduation year
+
+## Contact me
+
+- Email: developeraneesh8@gmail.com
+- LinkedIn: [Aneesh Abdul Kareem](link)
+- Twitter: [@YourTwitterHandle](link)
